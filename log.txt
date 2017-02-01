@@ -1,0 +1,11 @@
+commit 113fefaa130be6b9da4df83335b69734e5dd65a3
+Author: egri4stk <egri4stk@gmail.com>
+Date:   Wed Feb 1 13:07:41 2017 +0300
+
+    status added
+
+commit e29984776b0dafc2360bb178aa898a10e52c67b0
+Author: egri4stk <egri4stk@gmail.com>
+Date:   Wed Feb 1 13:05:05 2017 +0300
+
+    add .gitignore
